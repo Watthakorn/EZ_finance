@@ -1,0 +1,7 @@
+Help Menu:
+	Help	       -- Display this file
+	About us       -- Editor, Github
+button:
+	Future Value   -- Open Future Value calculate application
+	Present Value  -- Open Present Value calculate application
+	Close	       -- Close window, quit

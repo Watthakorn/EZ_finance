@@ -1,0 +1,20 @@
+    '''This Program will Calculate Present money from Future money, interest and years'''
+
+step 1 : select your future money.
+
+	onetime : your Future money you want
+	every years : your down payment every year or time to pay
+
+step 2 : insert your Future money / down payment
+
+step 3 : insert interest
+
+step 4 : insert how long do you deposit your money or time your pay(years/time)
+
+step 5 : click 'OK' button program will calculate
+
+final money will show at below 'OK' button
+
+
+
+***time select - final money will show real money without interest

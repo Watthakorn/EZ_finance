@@ -1,0 +1,4 @@
+Ez-Finance
+==========
+
+calculate interest

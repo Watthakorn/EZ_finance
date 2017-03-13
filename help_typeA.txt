@@ -1,0 +1,16 @@
+    '''This Program will Calculate Future money from money you deposit, interest and years'''
+
+step 1 : select your deposit money.
+
+	onetime : your deposit one time. deposit at year 0
+	every years : your deposit every years. first deposit at year 1 and last deposit will plus the calculated money
+
+step 2 : insert your deposit money
+
+step 3 : insert interest
+
+step 4 : insert how long do you deposit your money (years)
+
+step 5 : click 'OK' button program will calculate
+
+final money will show at below 'OK' button

@@ -1,0 +1,4 @@
+Editor : Watthakorn Malikow 57070106 sec3
+	 Sattra Tansuphasiri 57070111 sec3
+
+Github : https://github.com/Sattra/Ez-Finance.git
